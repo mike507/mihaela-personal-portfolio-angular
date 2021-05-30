@@ -1,0 +1,49 @@
+<div class="section" id="skill">
+        <div class="container">
+          <div class="h4 text-center mb-4 title">Compétences</div>
+          <div class="card" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
+            <div class="card-body">
+              <div class="row">
+                <div class="col-md-6">
+                  <ul>
+                    <p>
+                      <li *ngFor="let item of skills_p1" >
+                            <div class="h4 mb-4">{{item.type}}</div>
+                            <div>
+                            <ul>
+                                <p>
+                                    <li *ngFor="let subItem of item.list">
+                                          <div>{{subItem}}</div>
+                                    </li>
+                                 </p>
+                            </ul>
+                            </div>
+                      </li>
+                    </p>
+                  </ul>
+                </div>
+                <div class="col-md-6">
+                  <ul>
+                    <p>
+                      <li *ngFor="let item of skills_p2" >
+                            <div class="h4 mb-4">{{item.type}}</div>
+                            <div>
+                            <ul>
+                                <p>
+                                    <li *ngFor="let subItem of item.list">
+                                          <div>{{subItem}}</div>
+                                    </li>
+                                 </p>
+                            </ul>
+                            </div>
+                      </li>
+                    </p>
+                  </ul>
+                </div>
+              </div>
+          </div>
+      </div>
+    </div>
+  </div>
+
+

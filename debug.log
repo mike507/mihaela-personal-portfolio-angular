@@ -1,0 +1,26 @@
+[0926/190319.848:ERROR:file_io.cc(90)] ReadExactly: expected 3080, observed 0
+[0926/190319.849:ERROR:crash_report_database_win.cc(447)] failed to read records
+[0926/191332.157:ERROR:file_io.cc(90)] ReadExactly: expected 3080, observed 0
+[0926/191332.158:ERROR:crash_report_database_win.cc(447)] failed to read records
+[0926/221825.530:ERROR:file_io.cc(90)] ReadExactly: expected 3080, observed 0
+[0926/221825.531:ERROR:crash_report_database_win.cc(447)] failed to read records
+[0928/083805.319:ERROR:file_io.cc(90)] ReadExactly: expected 3080, observed 0
+[0928/083805.320:ERROR:crash_report_database_win.cc(447)] failed to read records
+[0928/093151.251:ERROR:file_io.cc(90)] ReadExactly: expected 3080, observed 0
+[0928/093151.252:ERROR:crash_report_database_win.cc(447)] failed to read records
+[0928/093457.754:ERROR:file_io.cc(90)] ReadExactly: expected 3080, observed 0
+[0928/093457.755:ERROR:crash_report_database_win.cc(447)] failed to read records
+[0928/093848.196:ERROR:file_io.cc(90)] ReadExactly: expected 3080, observed 0
+[0928/093848.198:ERROR:crash_report_database_win.cc(447)] failed to read records
+[0928/095438.675:ERROR:file_io.cc(90)] ReadExactly: expected 3080, observed 0
+[0928/095438.676:ERROR:crash_report_database_win.cc(447)] failed to read records
+[0928/100213.260:ERROR:file_io.cc(90)] ReadExactly: expected 3080, observed 0
+[0928/100213.261:ERROR:crash_report_database_win.cc(447)] failed to read records
+[0928/100929.391:ERROR:file_io.cc(90)] ReadExactly: expected 3080, observed 0
+[0928/100929.392:ERROR:crash_report_database_win.cc(447)] failed to read records
+[0928/101546.108:ERROR:file_io.cc(90)] ReadExactly: expected 3080, observed 0
+[0928/101546.109:ERROR:crash_report_database_win.cc(447)] failed to read records
+[0929/043422.332:ERROR:file_io.cc(90)] ReadExactly: expected 3080, observed 0
+[0929/043422.335:ERROR:crash_report_database_win.cc(447)] failed to read records
+[0929/043550.383:ERROR:file_io.cc(90)] ReadExactly: expected 3080, observed 0
+[0929/043550.383:ERROR:crash_report_database_win.cc(447)] failed to read records
