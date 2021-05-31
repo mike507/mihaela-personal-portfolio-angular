@@ -1,27 +1,36 @@
 <div class="section" id="education">
-    <div class="container cc-education">
-      <div class="h4 text-center mb-4 title">Formations</div>
-      <li *ngFor="let item of formations" >
+  <div class="container cc-education">
+    <div class="h4 text-center mb-4 title">Formations</div>
+    <li *ngFor="let item of formations">
       <div class="card">
         <div class="row">
-          <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+          <div
+            class="col-md-3 bg-primary"
+            data-aos="fade-right"
+            data-aos-offset="50"
+            data-aos-duration="500"
+          >
             <div class="card-body cc-education-header">
-              <p>{{item.period}}</p>
-              <div class="h5">{{item.diplome}}</div>
+              <p>{{ item.period }}</p>
+              <div class="h5">{{ item.diplome }}</div>
             </div>
           </div>
-          <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+          <div
+            class="col-md-9"
+            data-aos="fade-left"
+            data-aos-offset="50"
+            data-aos-duration="500"
+          >
             <div class="card-body">
-              <div class="h5">{{item.diplome}}</div>
-               <h4 class="category">
-                 {{item.ecole}}
-               </h4>
-               <!-- <div class="h6">{{item.description}}</div> -->
-               <p>{{item.description}}</p>
-             </div>
+              <div class="h5">{{ item.diplome }}</div>
+              <h4 class="category">
+                {{ item.ecole }}
+              </h4>
+              <p>{{ item.description }}</p>
+            </div>
           </div>
         </div>
       </div>
-    </li>    
-    </div>
+    </li>
   </div>
+</div>

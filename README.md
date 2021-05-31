@@ -24,7 +24,7 @@ ng serve --open
 The application will open in your browser
 
 The live app is available on GitHub Pages on 
-https://mike507.github.io/Mihaela-Personal-Portofolio-Angular 
+https://mike507.github.io/mihaela-personal-portfolio-angular 
 
 Get in Touch
 ===============

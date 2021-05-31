@@ -121,8 +121,13 @@
               "devServerTarget": "personal-portfoli-angular:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {}
         }
       }
-    }},
+    }
+  },
   "defaultProject": "personal-portfoli-angular"
 }

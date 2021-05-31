@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { SnotifyService } from 'ng-snotify';
 import { environment } from '../../../environments/environment';
 
 @Component({
@@ -8,11 +7,9 @@ import { environment } from '../../../environments/environment';
   styleUrls: ['./contact.component.scss']
 })
 export class ContactComponent implements OnInit {
-
   model: any = {};
-
-  constructor(){}
-
+  constructor(){
+  }
   ngOnInit() {
-     }
+  }
 }
